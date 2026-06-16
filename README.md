@@ -1,6 +1,9 @@
 # An Empirical Comparison of Classical and Bayesian Exploration Strategies in Reinforcement Learning
 
-**Parisa Zeinaliashtiyani** — University of Naples Federico II  
+**Parisa Zeinaliashtiyani** 
+**Narges Hosseini** 
+
+— University of Naples Federico II  
 Department of Electrical Engineering and Information Technology  
 `p.zeinaliahstiyani@unina.studenti.it`
 
